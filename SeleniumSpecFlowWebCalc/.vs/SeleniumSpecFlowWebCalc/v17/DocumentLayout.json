@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumSpecFlowWebCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDE2238-5B9D-4D2C-8162-03286A5CE88B}|SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\seleniumspecflowwebcalc\\seleniumspecflowwebcalc\\pageobject\\calculatorpageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDE2238-5B9D-4D2C-8162-03286A5CE88B}|SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc.csproj|solutionrelative:seleniumspecflowwebcalc\\pageobject\\calculatorpageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDE2238-5B9D-4D2C-8162-03286A5CE88B}|SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\seleniumspecflowwebcalc\\seleniumspecflowwebcalc\\hooks\\calculatorhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDE2238-5B9D-4D2C-8162-03286A5CE88B}|SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc.csproj|solutionrelative:seleniumspecflowwebcalc\\hooks\\calculatorhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDE2238-5B9D-4D2C-8162-03286A5CE88B}|SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\seleniumspecflowwebcalc\\seleniumspecflowwebcalc\\drivers\\browserdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDE2238-5B9D-4D2C-8162-03286A5CE88B}|SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc.csproj|solutionrelative:seleniumspecflowwebcalc\\drivers\\browserdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDE2238-5B9D-4D2C-8162-03286A5CE88B}|SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\seleniumspecflowwebcalc\\seleniumspecflowwebcalc\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDE2238-5B9D-4D2C-8162-03286A5CE88B}|SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc.csproj|solutionrelative:seleniumspecflowwebcalc\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDE2238-5B9D-4D2C-8162-03286A5CE88B}|SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\seleniumspecflowwebcalc\\seleniumspecflowwebcalc\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFDE2238-5B9D-4D2C-8162-03286A5CE88B}|SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc.csproj|solutionrelative:seleniumspecflowwebcalc\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorPageObject.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc\\PageObject\\CalculatorPageObject.cs",
+              "RelativeDocumentMoniker": "SeleniumSpecFlowWebCalc\\PageObject\\CalculatorPageObject.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc\\PageObject\\CalculatorPageObject.cs",
+              "RelativeToolTip": "SeleniumSpecFlowWebCalc\\PageObject\\CalculatorPageObject.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAEwBsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:57:03.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SeleniumSpecFlowWebCalc\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "SeleniumSpecFlowWebCalc\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:00:10.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorHooks.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc\\Hooks\\CalculatorHooks.cs",
+              "RelativeDocumentMoniker": "SeleniumSpecFlowWebCalc\\Hooks\\CalculatorHooks.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc\\Hooks\\CalculatorHooks.cs",
+              "RelativeToolTip": "SeleniumSpecFlowWebCalc\\Hooks\\CalculatorHooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:27:06.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.feature",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc\\Features\\Calculator.feature",
+              "RelativeDocumentMoniker": "SeleniumSpecFlowWebCalc\\Features\\Calculator.feature",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc\\Features\\Calculator.feature",
+              "RelativeToolTip": "SeleniumSpecFlowWebCalc\\Features\\Calculator.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-12T15:25:39.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrowserDriver.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc\\Drivers\\BrowserDriver.cs",
+              "RelativeDocumentMoniker": "SeleniumSpecFlowWebCalc\\Drivers\\BrowserDriver.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumSpecFlowWebCalc\\SeleniumSpecFlowWebCalc\\Drivers\\BrowserDriver.cs",
+              "RelativeToolTip": "SeleniumSpecFlowWebCalc\\Drivers\\BrowserDriver.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:29:27.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

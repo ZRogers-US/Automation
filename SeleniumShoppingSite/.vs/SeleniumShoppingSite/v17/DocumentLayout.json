@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\seleniumshoppingsite\\seleniumshoppingsite\\pageobjects\\onlineshopinventorypageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|solutionrelative:seleniumshoppingsite\\pageobjects\\onlineshopinventorypageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\seleniumshoppingsite\\seleniumshoppingsite\\pageobjects\\onlineshoploginpageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|solutionrelative:seleniumshoppingsite\\pageobjects\\onlineshoploginpageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\seleniumshoppingsite\\seleniumshoppingsite\\drivers\\browserdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|solutionrelative:seleniumshoppingsite\\drivers\\browserdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\seleniumshoppingsite\\seleniumshoppingsite\\stepdefinitions\\onlineshoploginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|solutionrelative:seleniumshoppingsite\\stepdefinitions\\onlineshoploginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\seleniumshoppingsite\\stepdefinitions\\onlineshopinventorystepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|solutionrelative:seleniumshoppingsite\\stepdefinitions\\onlineshopinventorystepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\seleniumshoppingsite\\features\\logintoonlineshop.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|solutionrelative:seleniumshoppingsite\\features\\logintoonlineshop.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\seleniumshoppingsite\\stepdefinitions\\examplestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|solutionrelative:seleniumshoppingsite\\stepdefinitions\\examplestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\seleniumshoppingsite\\seleniumshoppingsite\\features\\examplefeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5FA0F119-26CA-4FB6-B922-2E0959AF68E5}|SeleniumShoppingSite\\SeleniumShoppingSite.csproj|solutionrelative:seleniumshoppingsite\\features\\examplefeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineShopLoginPageObject.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\PageObjects\\OnlineShopLoginPageObject.cs",
+              "RelativeDocumentMoniker": "SeleniumShoppingSite\\PageObjects\\OnlineShopLoginPageObject.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\PageObjects\\OnlineShopLoginPageObject.cs",
+              "RelativeToolTip": "SeleniumShoppingSite\\PageObjects\\OnlineShopLoginPageObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:59:31.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlineShopInventoryPageObject.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\PageObjects\\OnlineShopInventoryPageObject.cs",
+              "RelativeDocumentMoniker": "SeleniumShoppingSite\\PageObjects\\OnlineShopInventoryPageObject.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\PageObjects\\OnlineShopInventoryPageObject.cs",
+              "RelativeToolTip": "SeleniumShoppingSite\\PageObjects\\OnlineShopInventoryPageObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:58:27.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrowserDriver.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\Drivers\\BrowserDriver.cs",
+              "RelativeDocumentMoniker": "SeleniumShoppingSite\\Drivers\\BrowserDriver.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\Drivers\\BrowserDriver.cs",
+              "RelativeToolTip": "SeleniumShoppingSite\\Drivers\\BrowserDriver.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:58:19.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnlineShopLoginStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\StepDefinitions\\OnlineShopLoginStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SeleniumShoppingSite\\StepDefinitions\\OnlineShopLoginStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\StepDefinitions\\OnlineShopLoginStepDefinitions.cs",
+              "RelativeToolTip": "SeleniumShoppingSite\\StepDefinitions\\OnlineShopLoginStepDefinitions.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:58:15.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginToOnlineShop.feature",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\Features\\LoginToOnlineShop.feature",
+              "RelativeDocumentMoniker": "SeleniumShoppingSite\\Features\\LoginToOnlineShop.feature",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\Features\\LoginToOnlineShop.feature",
+              "RelativeToolTip": "SeleniumShoppingSite\\Features\\LoginToOnlineShop.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-02T13:33:45.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OnlineShopInventoryStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\StepDefinitions\\OnlineShopInventoryStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SeleniumShoppingSite\\StepDefinitions\\OnlineShopInventoryStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\StepDefinitions\\OnlineShopInventoryStepDefinitions.cs",
+              "RelativeToolTip": "SeleniumShoppingSite\\StepDefinitions\\OnlineShopInventoryStepDefinitions.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:33:41.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExampleStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\StepDefinitions\\ExampleStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SeleniumShoppingSite\\StepDefinitions\\ExampleStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\StepDefinitions\\ExampleStepDefinitions.cs",
+              "RelativeToolTip": "SeleniumShoppingSite\\StepDefinitions\\ExampleStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:31:22.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Examplefeature.feature",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\Features\\Examplefeature.feature",
+              "RelativeDocumentMoniker": "SeleniumShoppingSite\\Features\\Examplefeature.feature",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\SeleniumShoppingSite\\SeleniumShoppingSite\\Features\\Examplefeature.feature",
+              "RelativeToolTip": "SeleniumShoppingSite\\Features\\Examplefeature.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-02T13:00:47.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

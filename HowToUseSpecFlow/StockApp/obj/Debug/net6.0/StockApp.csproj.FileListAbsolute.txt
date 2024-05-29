@@ -1,0 +1,11 @@
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\HowToUseSpecFlow\StockApp\obj\Debug\net6.0\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\HowToUseSpecFlow\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfoInputs.cache
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\HowToUseSpecFlow\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfo.cs
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\HowToUseSpecFlow\StockApp\obj\Debug\net6.0\StockApp.csproj.CoreCompileInputs.cache
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\HowToUseSpecFlow\StockApp\bin\Debug\net6.0\StockApp.deps.json
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\HowToUseSpecFlow\StockApp\bin\Debug\net6.0\StockApp.dll
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\HowToUseSpecFlow\StockApp\bin\Debug\net6.0\StockApp.pdb
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\HowToUseSpecFlow\StockApp\obj\Debug\net6.0\StockApp.dll
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\HowToUseSpecFlow\StockApp\obj\Debug\net6.0\refint\StockApp.dll
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\HowToUseSpecFlow\StockApp\obj\Debug\net6.0\StockApp.pdb
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\HowToUseSpecFlow\StockApp\obj\Debug\net6.0\ref\StockApp.dll

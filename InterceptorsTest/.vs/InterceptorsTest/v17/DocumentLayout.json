@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\interceptorstest\\interceptorstest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|solutionrelative:interceptorstest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\interceptorstest\\interceptorstest\\rickandmortycharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|solutionrelative:interceptorstest\\rickandmortycharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\interceptorstest\\interceptorstest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|solutionrelative:interceptorstest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\interceptorstest\\interceptorstest\\interceptableexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|solutionrelative:interceptorstest\\interceptableexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\interceptorstest\\interceptorstest\\csharpinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|solutionrelative:interceptorstest\\csharpinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\interceptorstest\\interceptorstest\\interceptorstest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|solutionrelative:interceptorstest\\interceptorstest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\interceptorstest\\interceptorstest\\interceptclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2241D1D-05DA-475F-A2BF-330C7129CD74}|InterceptorsTest\\InterceptorsTest.csproj|solutionrelative:interceptorstest\\interceptclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RickAndMortyCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\RickAndMortyCharacter.cs",
+              "RelativeDocumentMoniker": "InterceptorsTest\\RickAndMortyCharacter.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\RickAndMortyCharacter.cs",
+              "RelativeToolTip": "InterceptorsTest\\RickAndMortyCharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:09:05.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterceptableExample.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\InterceptableExample.cs",
+              "RelativeDocumentMoniker": "InterceptorsTest\\InterceptableExample.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\InterceptableExample.cs",
+              "RelativeToolTip": "InterceptorsTest\\InterceptableExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:22:20.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CSharpInterceptor.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\CSharpInterceptor.cs",
+              "RelativeDocumentMoniker": "InterceptorsTest\\CSharpInterceptor.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\CSharpInterceptor.cs",
+              "RelativeToolTip": "InterceptorsTest\\CSharpInterceptor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:22:19.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "InterceptorsTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\UnitTest1.cs",
+              "RelativeToolTip": "InterceptorsTest\\UnitTest1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAACYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:16:16.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterceptorsTest.csproj",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\InterceptorsTest.csproj",
+              "RelativeDocumentMoniker": "InterceptorsTest\\InterceptorsTest.csproj",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\InterceptorsTest.csproj",
+              "RelativeToolTip": "InterceptorsTest\\InterceptorsTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T07:52:06.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InterceptClass.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\InterceptClass.cs",
+              "RelativeDocumentMoniker": "InterceptorsTest\\InterceptClass.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\InterceptClass.cs",
+              "RelativeToolTip": "InterceptorsTest\\InterceptClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:48:37.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\Program.cs",
+              "RelativeDocumentMoniker": "InterceptorsTest\\Program.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\InterceptorsTest\\InterceptorsTest\\Program.cs",
+              "RelativeToolTip": "InterceptorsTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:48:15.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

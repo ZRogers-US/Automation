@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\TestingFluent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CB4267-973A-4688-9F0A-20E3398B70B1}|TestingFluent\\TestingFluent.csproj|C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\TestingFluent\\testingfluent\\workingclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CB4267-973A-4688-9F0A-20E3398B70B1}|TestingFluent\\TestingFluent.csproj|solutionrelative:testingfluent\\workingclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CB4267-973A-4688-9F0A-20E3398B70B1}|TestingFluent\\TestingFluent.csproj|c:\\users\\zrogers\\onedrive - universally speaking ltd\\documents\\.automationtesting\\visual studio\\training\\testingfluent\\testingfluent\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CB4267-973A-4688-9F0A-20E3398B70B1}|TestingFluent\\TestingFluent.csproj|solutionrelative:testingfluent\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CB4267-973A-4688-9F0A-20E3398B70B1}|TestingFluent\\TestingFluent.csproj|C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\TestingFluent\\testingfluent\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CB4267-973A-4688-9F0A-20E3398B70B1}|TestingFluent\\TestingFluent.csproj|solutionrelative:testingfluent\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CB4267-973A-4688-9F0A-20E3398B70B1}|TestingFluent\\TestingFluent.csproj|C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\TestingFluent\\testingfluent\\testobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CB4267-973A-4688-9F0A-20E3398B70B1}|TestingFluent\\TestingFluent.csproj|solutionrelative:testingfluent\\testobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Numbers.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\TestingFluent\\TestingFluent\\Numbers.cs",
+              "RelativeDocumentMoniker": "TestingFluent\\Numbers.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\TestingFluent\\TestingFluent\\Numbers.cs",
+              "RelativeToolTip": "TestingFluent\\Numbers.cs",
+              "ViewState": "AQIAAFEBAAAAAAAAAAAuwGcBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:53:17.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestObject.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\TestingFluent\\TestingFluent\\TestObject.cs",
+              "RelativeDocumentMoniker": "TestingFluent\\TestObject.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\TestingFluent\\TestingFluent\\TestObject.cs",
+              "RelativeToolTip": "TestingFluent\\TestObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:48:06.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkingClass.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\TestingFluent\\TestingFluent\\WorkingClass.cs",
+              "RelativeDocumentMoniker": "TestingFluent\\WorkingClass.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\TestingFluent\\TestingFluent\\WorkingClass.cs",
+              "RelativeToolTip": "TestingFluent\\WorkingClass.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:16:01.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestClass.cs",
+              "DocumentMoniker": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\TestingFluent\\TestingFluent\\TestClass.cs",
+              "RelativeDocumentMoniker": "TestingFluent\\TestClass.cs",
+              "ToolTip": "C:\\Users\\zrogers\\OneDrive - Universally Speaking Ltd\\Documents\\.AutomationTesting\\Visual Studio\\Training\\TestingFluent\\TestingFluent\\TestClass.cs",
+              "RelativeToolTip": "TestingFluent\\TestClass.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAlwG0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:03:55.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
