@@ -1,9 +1,8 @@
-#include "Misc/AutomationTest.h"
-#include "Tests/AutomationEditorCommon.h"
-#include "FileHelpers.h"
-#include <Tests/AutomationCommon.h>
-#include <EngineAnalytics.h>
-#include <Kismet/GameplayStatics.h>
+#include "Tests/AutomationEditorCommon.h"// required for FAutomationEditorCommonUtils along with, i believe, the "UnrealEd" module
+#include "FileHelpers.h" // believe this requires the UnrealEd module
+#include "Tests/AutomationCommon.h"
+#include "EngineAnalytics.h"
+#include "Kismet/GameplayStatics.h"
 #include "Enemy.h"
 
 IMPLEMENT_COMPLEX_AUTOMATION_TEST(LoadAllMapsInEditorTest, "AutomationTestingExample.SimpleAndComplexAutomationTests.Complex.AllMaps.LoadAllMaps", EAutomationTestFlags::EditorContext |EAutomationTestFlags::StressFilter)

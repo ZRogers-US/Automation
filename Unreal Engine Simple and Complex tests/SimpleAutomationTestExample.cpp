@@ -1,8 +1,5 @@
-//#include "Misc/AutomationTest.h"
 #include "FPSCharacter.h"
 #include "AmmoComponent.h"
-//#include <Tests/AutomationEditorCommon.h>
-//#include <HAL/FileManagerGeneric.h>
 
 IMPLEMENT_SIMPLE_AUTOMATION_TEST(SimpleAmmoComponentMaxAmmoTest, "AutomationTestingExample.SimpleAndComplexAutomationTests.Simple.FPSCharacter.AmmoComponent.MaxAmmo", EAutomationTestFlags::EditorContext | EAutomationTestFlags::EngineFilter)
 IMPLEMENT_SIMPLE_AUTOMATION_TEST(SimpleAmmoComponentAmmoCountTest, "AutomationTestingExample.SimpleAndComplexAutomationTests.Simple.FPSCharacter.AmmoComponent.AmmoCount", EAutomationTestFlags::EditorContext | EAutomationTestFlags::EngineFilter)
