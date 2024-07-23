@@ -34,7 +34,7 @@ void SMainMenuWidget::Construct(const FArguments& InArgs)
 				[
 					SNew(SButton)
 						.Text(FText::FromString(TEXT("ButtonText")))
-						.AddMetaData(FDriverMetaData::Id("TestButton"))
+						.AddMetaData(FDriverMetaData::Id("PlayButton"))
 						.OnClicked(FOnClicked::CreateRaw(this, &SMainMenuWidget::TestButtonOnClick))  //(&SMainMenuWidget::TestButtonOnClick)
 				]
 			]
