@@ -115,3 +115,4 @@ C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTestin
 C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\SeleniumShoppingSite\SeleniumShoppingSite\obj\Debug\net6.0\SeleniumShoppingSite.pdb
 C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\SeleniumShoppingSite\SeleniumShoppingSite\obj\Debug\net6.0\SeleniumShoppingSite.genruntimeconfig.cache
 C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\SeleniumShoppingSite\SeleniumShoppingSite\obj\Debug\net6.0\ref\SeleniumShoppingSite.dll
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\SeleniumShoppingSite\SeleniumShoppingSite\obj\Debug\net6.0\SeleniumShoppingSite.sourcelink.json
