@@ -1,2 +1,0 @@
-@echo off
-"D:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor.exe" "D:\UnrealEngine - ZR\Cropout\CropoutSampleProject\CropoutSampleProject.uproject" -ExecCmds="Automation RunTest Project.Functional Tests.Tests;Quit" -ReportExportPath="C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Run Tests From CMD\Results"
