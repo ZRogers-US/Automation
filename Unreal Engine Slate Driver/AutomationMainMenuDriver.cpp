@@ -1,4 +1,4 @@
-#include "Tests/AutomationEditorCommon.h" // requiredforFAutomationEditorCommonUtils along with the "UnrealEd" module
+#include "Tests/AutomationEditorCommon.h" // required for FAutomationEditorCommonUtils along with the "UnrealEd" module
 #include "Developer/AutomationDriver/Public/AutomationDriverCommon.h" // required for IAutomationDriverModule along with the, "AutomationDriver" module
 
 
