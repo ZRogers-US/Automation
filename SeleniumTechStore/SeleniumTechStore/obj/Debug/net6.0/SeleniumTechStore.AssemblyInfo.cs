@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeleniumTechStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26e3f4a7ea438bd52565b039c69f7b2988d47dec")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeleniumTechStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeleniumTechStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

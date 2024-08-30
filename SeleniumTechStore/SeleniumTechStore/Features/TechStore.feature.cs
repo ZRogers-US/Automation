@@ -96,7 +96,7 @@ this.ScenarioInitialize(scenarioInfo);
  testRunner.Given("A New user wants to sign up", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 6
-   testRunner.And("the username is BilboBagins", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+   testRunner.And("the username is FredGeorge", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 7
    testRunner.And("the password is TestPassword", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");

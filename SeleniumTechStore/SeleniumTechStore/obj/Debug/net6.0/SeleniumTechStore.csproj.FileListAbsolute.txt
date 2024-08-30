@@ -116,3 +116,4 @@ C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTestin
 C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\SeleniumTechStore\SeleniumTechStore\obj\Debug\net6.0\SeleniumTechStore.genruntimeconfig.cache
 C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\SeleniumTechStore\SeleniumTechStore\obj\Debug\net6.0\ref\SeleniumTechStore.dll
 C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\SeleniumTechStore\SeleniumTechStore\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\zrogers\OneDrive - Universally Speaking Ltd\Documents\.AutomationTesting\Visual Studio\Training\SeleniumTechStore\SeleniumTechStore\obj\Debug\net6.0\SeleniumTechStore.sourcelink.json

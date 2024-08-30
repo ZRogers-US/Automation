@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeleniumShoppingSite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba1835cf44afa79c3e47c9a2123b6d89f9481a87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26e3f4a7ea438bd52565b039c69f7b2988d47dec")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeleniumShoppingSite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeleniumShoppingSite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

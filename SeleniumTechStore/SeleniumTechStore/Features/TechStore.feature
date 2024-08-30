@@ -3,7 +3,7 @@
 @signup
 Scenario: Signup to TechStore
 	Given A New user wants to sign up 
-	  And the username is BilboBagins
+	  And the username is FredGeorge
 	  And the password is TestPassword
 	When the user selects the signup button
 	Then an alert appears saying Signup Successful 
